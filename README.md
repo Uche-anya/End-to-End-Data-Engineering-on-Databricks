@@ -12,7 +12,7 @@ It demonstrates practical experience in:
 - Databricks Jobs
 - Git integration with Databricks Repos
 - ADLS Gen2 integration using External & Managed Locations
-- SQL-based expectations and SCD handling
+- Python & SQL-based expectations and SCD handling
 
 ---
 
@@ -79,5 +79,6 @@ All pipelines are fully orchestrated using **DLT pipelines** and **Databricks Jo
 - Unity Catalog’s role in secure, scalable governance
 
 ---
+- Thanks to Ramesh Ratnasamy for this certification course on udemy!
 
 
